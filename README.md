@@ -1,4 +1,4 @@
-# 🧮 Calculadora Inteligente - Angular 19
+# 🧮 Calculadora - Angular 19
 
 Este projeto é uma **calculadora web interativa**, desenvolvida com **Angular 19**, com forte ênfase na componentização, experiência de usuário e modularidade. Ela realiza operações matemáticas básicas de maneira fluida, com gerenciamento completo de estados e memória de cálculo.
 
