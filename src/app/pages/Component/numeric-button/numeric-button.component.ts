@@ -10,7 +10,7 @@ export class NumericButtonComponent {
   @Input() label = ''; // Informação que será exibida no botão
   @Input() expression = ''; // Armazenamento da informação digitada
 
-  @Output() valueChanged = new EventEmitter<string>();
+  @Output() valueChanged = new EventEmitter<string>(); //importa metodos do formulario e enviando as orientações para o formulario de orgigem
 
   handleClick() {
     if (this.label === '.') {
