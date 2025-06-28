@@ -1,0 +1,7 @@
+services:
+  calculadora:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "4200:4200"
